@@ -4,5 +4,7 @@ import "./tap"
 
 func main() {
 	//tap.Q1157()
-	tap.Q1019()
+	//tap.Q1019()
+	tap.Q1018()
+
 }
